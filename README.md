@@ -1,7 +1,6 @@
 ```diff
 + 👋 Hi, I’m Alfin
 + 👀 I’m interested in robotic
-+ 🌱 I’m currently learning how to develop game
 + ⚡ Fact: Saya hanya manusia, terkadang saya membuat kesalahan.
 ```
 
