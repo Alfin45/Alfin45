@@ -1,7 +1,5 @@
 ```diff
 + 👋 Hi, I’m Alfin
-+ 👀 I’m interested in robotic
-+ ⚡ Fact: Saya hanya manusia, terkadang saya membuat kesalahan.
 ```
 
 <!---
